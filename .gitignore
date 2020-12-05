@@ -1,0 +1,6 @@
+# Repo files:
+img
+*.ipynb
+
+# Jupyter Notebook
+.ipynb_checkpoints
