@@ -3,7 +3,12 @@ Compilation of event information
 
 ## Mattermost Channels:
  - Main event channel: [bhg-ny2020](https://mattermost.brainhack.org/brainhack/channels/bhg-ny2020)
+ - Trouble-shooting help desk channel: [bhg-ny2020-helpdesk](https://mattermost.brainhack.org/brainhack/channels/bhg-ny2020-helpdesk)
  - Brainhack DC 2020: [bhg-washingtondc](https://mattermost.brainhack.org/brainhack/channels/bhg-washingtondc)
+
+## Broadcasting links:
+ - BrainhackNY: https://weillcornell.zoom.us/j/93298682358
+ - BrainhackDC: https://tinyurl.com/BrainHackDC2020
 
 ## Event links & repositories:
  - Event website: https://brainhack-ny.github.io/
@@ -19,4 +24,3 @@ TBA
 General questions about the tutorial should be raised in the Zoom Q&A or chat session. Additionally, Emily will be active in a jitsi room to help debug errors that individual participants run into. 
 
 Jitsi Link:  
-
