@@ -9,7 +9,7 @@ Compilation of event information
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
 
 ## Project Jitsi Rooms:
-TBA
+Eye tracking project: https://meet.jit.si/EyeTrackingProject
 
 ## Errors during tutorials:
 General questions about the tutorial should be raised in the Zoom Q&A or chat session. Additionally, Emily will be active in a jitsi room to help debug errors that individual participants run into. 
