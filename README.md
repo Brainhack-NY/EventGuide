@@ -19,8 +19,13 @@ Compilation of event information
 	- See `collab-git.ipynb` in this repository for slides.
  - [Saturday's Conda, Jupyter, Python tutorial](https://github.com/Brainhack-NY/py-basics-tutorial)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
+ - [Computer Set-up Guide!](https://docs.google.com/document/d/1fFVllVBLEqI8MP36U745vN0mPi0YoelKRzRRRCrISlk/edit?usp=sharing) Important for following along Python tutorial!
 
-## Project Jitsi Rooms:
- - [Eye tracking project](https://brainhack.org/global2020/project/project_87/): https://meet.jit.si/EyeTrackingProject
- - [Try BioImage Suite Web](https://brainhack.org/global2020/project/project_89/): TBD
+## Project Zoom/Jitsi Rooms:
+ - [Eye tracking project](https://brainhack.org/global2020/project/project_87/):
+  	- Jitsi: https://meet.jit.si/EyeTrackingProject
+  	- Mattermost: https://brainhack.org/global2020/project/project_87/
+ - [Try BioImage Suite Web](https://brainhack.org/global2020/project/project_89/):
+  	- Zoom: https://zoom.us/j/92513019582
+  	- Mattermostt: https://mattermost.brainhack.org/brainhack/channels/bisweb-discussion
 
