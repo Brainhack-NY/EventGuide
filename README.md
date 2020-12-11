@@ -20,6 +20,7 @@ Compilation of event information
  - [Saturday's Conda, Jupyter, Python tutorial](https://github.com/Brainhack-NY/py-basics-tutorial)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
 
-## Project Jitsi/Zoom Rooms:
-TBA
+## Project Jitsi Rooms:
+ - [Eye tracking project](https://brainhack.org/global2020/project/project_87/): https://meet.jit.si/EyeTrackingProject
+ - [Try BioImage Suite Web](https://brainhack.org/global2020/project/project_89/): TBD
 
