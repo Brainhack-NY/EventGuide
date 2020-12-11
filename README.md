@@ -5,6 +5,7 @@ Compilation of event information
  - Main event channel: [bhg-ny2020](https://mattermost.brainhack.org/brainhack/channels/bhg-ny2020)
  - Trouble-shooting help desk channel: [bhg-ny2020-helpdesk](https://mattermost.brainhack.org/brainhack/channels/bhg-ny2020-helpdesk)
  - Brainhack DC 2020: [bhg-washingtondc](https://mattermost.brainhack.org/brainhack/channels/bhg-washingtondc)
+ - Brainhack Global: [brainhack-global](https://mattermost.brainhack.org/brainhack/channels/brainhack-global)
 
 ## Broadcasting links:
  - BrainhackNY: https://weillcornell.zoom.us/j/93298682358
@@ -19,9 +20,6 @@ Compilation of event information
  - [Saturday's Conda, Jupyter, Python tutorial](https://github.com/Brainhack-NY/py-basics-tutorial)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
 
-## Project Jitsi Rooms:
+## Project Jitsi/Zoom Rooms:
 TBA
-
-## Trouble shooting helpdesk
- - Mattermost channel: https://mattermost.brainhack.org/brainhack/channels/bhg-ny2020-helpdesk
 
