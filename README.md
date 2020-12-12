@@ -28,7 +28,7 @@ Compilation of event information
  - Refactoring Python Code with Sourcery.ai:
 	- Recording: Processing...
 	- Website: [https://sourcery.ai/](https://sourcery.ai/)
- - Saturday evening social hour: [Gathertown]](https://gather.town/app/6f8ISiJPeAWmPRY2/ci2_octobertest|)
+ - Saturday evening social hour: [Gathertown](https://gather.town/app/6f8ISiJPeAWmPRY2/ci2_octobertest|)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
  - [Computer Set-up Guide!](https://docs.google.com/document/d/1fFVllVBLEqI8MP36U745vN0mPi0YoelKRzRRRCrISlk/edit?usp=sharing) Important for following along Python tutorial!
 
