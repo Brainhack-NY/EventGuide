@@ -17,6 +17,9 @@ Compilation of event information
  - Friday night Trivia RSVP: https://forms.gle/PtWBAwXDZTaagHfM6
  - [Friday's Git & GitHub tutorial](https://brainhack-ny.github.io/collab-git-tutorial/)
 	- See `collab-git.ipynb` in this repository for slides.
+ - Dr. Amy Kuceyeski's Machine Learning in Neuroimaing Talk:
+	- Recording: Processing... Then will upload...
+	- Machine Learning in Medicine Seminar Series: [https://www.mlim-cornell.club/virtual-seminar-series](https://www.mlim-cornell.club/virtual-seminar-series)
  - [Saturday's Conda, Jupyter, Python tutorial](https://github.com/Brainhack-NY/py-basics-tutorial)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
  - [Computer Set-up Guide!](https://docs.google.com/document/d/1fFVllVBLEqI8MP36U745vN0mPi0YoelKRzRRRCrISlk/edit?usp=sharing) Important for following along Python tutorial!
