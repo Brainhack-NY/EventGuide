@@ -15,11 +15,11 @@ Compilation of event information
  - Event website: https://brainhack-ny.github.io/
  - BrainhackDC website: https://brainhackdc.github.io/2020/
  - [Friday's Git & GitHub tutorial](https://brainhack-ny.github.io/collab-git-tutorial/)
-	- See `collab-git.ipynb` in this repository for slides.
  - Dr. Amy Kuceyeski's Machine Learning in Neuroimaing Talk:
 	- Recording: Processing... Then will upload...
 	- Machine Learning in Medicine Seminar Series: [https://www.mlim-cornell.club/virtual-seminar-series](https://www.mlim-cornell.club/virtual-seminar-series)
  - [Saturday's Conda, Jupyter, Python tutorial](https://github.com/Brainhack-NY/py-basics-tutorial)
+	- Jupyter slides: [rise](https://rise.readthedocs.io/en/stable/) or [reveal.js](https://revealjs.com/#/)
  - Unconference: NeuroView Presentation
 	- Have you ever wondered about a resource people can point to when they ask what "brainhack" is? Why someone should spend time and resources on a brainhack event? Check out our preprint coming out in January on PsyArxiv! Video recording will be updated soon...
  - Dr. Hagen Tilger's talk on single-cell isoform expression in the brain:
@@ -28,7 +28,6 @@ Compilation of event information
  - Refactoring Python Code with Sourcery.ai:
 	- Recording: Processing...
 	- Website: [https://sourcery.ai/](https://sourcery.ai/)
- - Saturday evening social hour: [Gathertown](https://gather.town/app/6f8ISiJPeAWmPRY2/ci2_octobertest|)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
  - [Computer Set-up Guide!](https://docs.google.com/document/d/1fFVllVBLEqI8MP36U745vN0mPi0YoelKRzRRRCrISlk/edit?usp=sharing) Important for following along Python tutorial!
 
