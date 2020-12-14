@@ -16,7 +16,7 @@ Compilation of event information
  - BrainhackDC website: https://brainhackdc.github.io/2020/
  - [Friday's Git & GitHub tutorial](https://brainhack-ny.github.io/collab-git-tutorial/)
  - Dr. Amy Kuceyeski's Machine Learning in Neuroimaing Talk:
-	- Recording: Processing... Then will upload...
+	- Recording: [Brainhack NY 2020 - Machine Learning in Neuroimaing | Dr. Amy Kuceyeski (Cornell)](https://youtu.be/3JBcA8No_14) 
 	- Machine Learning in Medicine Seminar Series: [https://www.mlim-cornell.club/virtual-seminar-series](https://www.mlim-cornell.club/virtual-seminar-series)
  - [Saturday's Conda, Jupyter, Python tutorial](https://github.com/Brainhack-NY/py-basics-tutorial)
 	- Jupyter slides: [rise](https://rise.readthedocs.io/en/stable/) or [reveal.js](https://revealjs.com/#/)
@@ -27,11 +27,11 @@ Compilation of event information
 	- Recording: Processing...
 	- Lab website: [https://www.tilgnerlab.com/](https://www.tilgnerlab.com/)
  - Refactoring Python Code with Sourcery.ai:
-	- Recording: Processing...
+	- Recording: [Automated Code Refactoring with Sourcery.ai](https://youtu.be/ligsr8oPb6E)
 	- Website: [https://sourcery.ai/](https://sourcery.ai/)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
  - Sunday's Plotly Express & Dash session: 
-	- Recording: Processing...
+	- [Slides](https://docs.google.com/presentation/d/1UWfuSxjrXNG2UpU9bS_J6xpsIeC7xTx3spwLBzAHXsk/edit?usp=sharing)
 	- Website: [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)
  - [Computer Set-up Guide!](https://docs.google.com/document/d/1fFVllVBLEqI8MP36U745vN0mPi0YoelKRzRRRCrISlk/edit?usp=sharing) Important for following along Python tutorial!
 
