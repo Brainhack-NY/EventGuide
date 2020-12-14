@@ -7,10 +7,6 @@ Compilation of event information
  - Brainhack DC 2020: [bhg-washingtondc](https://mattermost.brainhack.org/brainhack/channels/bhg-washingtondc)
  - Brainhack Global: [brainhack-global](https://mattermost.brainhack.org/brainhack/channels/brainhack-global)
 
-## Broadcasting links:
- - BrainhackNY: https://weillcornell.zoom.us/j/93298682358
- - BrainhackDC: https://tinyurl.com/BrainHackDC2020
-
 ## Event links & repositories:
  - Event website: https://brainhack-ny.github.io/
  - BrainhackDC website: https://brainhackdc.github.io/2020/
@@ -30,6 +26,7 @@ Compilation of event information
 	- Recording: [Automated Code Refactoring with Sourcery.ai](https://youtu.be/ligsr8oPb6E)
 	- Website: [https://sourcery.ai/](https://sourcery.ai/)
  - [Sunday's datalad introduction](https://github.com/Brainhack-NY/intro_datalad)
+ - [Brainhack Proceedings](https://brainhack-proceedings.github.io/): Publication destination for all things brainhack related! No submission fee, submission through GitHub actions, and transparent and community driven review process.
  - Sunday's Plotly Express & Dash session: 
 	- [Slides](https://docs.google.com/presentation/d/1UWfuSxjrXNG2UpU9bS_J6xpsIeC7xTx3spwLBzAHXsk/edit?usp=sharing)
 	- Website: [https://github.com/plotly/plotly.py](https://github.com/plotly/plotly.py)
