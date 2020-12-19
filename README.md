@@ -20,7 +20,7 @@ Compilation of event information
  - Unconference: NeuroView Presentation
 	- Have you ever wondered about a resource people can point to when they ask what "brainhack" is? Why someone should spend time and resources on a brainhack event? Check out our preprint coming out in January on PsyArxiv! Video recording will be updated soon...
  - Dr. Hagen Tilger's talk on single-cell isoform expression in the brain:
-	- Recording: Processing...
+	- Recording:[Brainhack NY 2020 - Isoform Expressions of the Brain | Dr. Hagen Tilgner (WCM)](https://youtu.be/pby2L_0RRMc) 
 	- Lab website: [https://www.tilgnerlab.com/](https://www.tilgnerlab.com/)
  - Refactoring Python Code with Sourcery.ai:
 	- Recording: [Automated Code Refactoring with Sourcery.ai](https://youtu.be/ligsr8oPb6E)
