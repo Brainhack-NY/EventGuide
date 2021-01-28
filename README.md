@@ -34,7 +34,6 @@ Compilation of event information
 
 ## Project Zoom/Jitsi Rooms:
  - [Eye tracking project](https://brainhack.org/global2020/project/project_87/):
-  	- Jitsi: https://meet.jit.si/EyeTrackingProject
   	- Mattermost: https://brainhack.org/global2020/project/project_87/
  - [Try BioImage Suite Web](https://brainhack.org/global2020/project/project_89/):
   	- Zoom: https://zoom.us/j/92513019582
